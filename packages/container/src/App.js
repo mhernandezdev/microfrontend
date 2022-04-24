@@ -3,7 +3,7 @@ import { mount } from 'marketing/MarketingApp';
 
 import MarketingApp from './components/MarketingApp'
 
-console.log('mount', mount)
+console.log('mount 2', mount)
 
 export default () => {
     return <div>
